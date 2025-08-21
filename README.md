@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Resume Maker
 
 A professional Django application for creating beautiful and professional resumes with multiple templates. Build stunning resumes that stand out and help you land your dream job.
@@ -196,3 +197,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## Support
 
 For support and questions, please open an issue on the project repository.
+=======
+# resume-creater
+for create resume faster
+>>>>>>> 74861fb1f39addc20d1564b5037e286ecc11e096
